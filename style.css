@@ -7,7 +7,7 @@ body {
 }
 
 nav {
-    background-color: sandybrown;
+    background-color: #F4A460;
 }
 .nav-menu {
     list-style: none;
@@ -108,7 +108,7 @@ nav {
 }
 
 footer {
-    background-color: sandybrown;
+    background-color: #F4A460;
     padding: 15px;
     color: #111;
     font-weight: bold;
@@ -257,4 +257,5 @@ video, audio {
 .contact-form button:hover {
     background-color: #4B0082;
     color: #f2fcfd;
+
 }    
